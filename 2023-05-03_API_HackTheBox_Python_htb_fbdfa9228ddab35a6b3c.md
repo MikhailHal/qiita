@@ -5,7 +5,7 @@ id:      fbdfa9228ddab35a6b3c
 private: false
 -->
 ## HackTheBox API
-HackTheBox(HTB)自体は割と有名？なので知っている人は多そう。
+HackTheBox(HTB)自体は割と有名？なので知っている人は多そう。。
 んで、一応HTBにもAPIはあってユーザ情報を取得したり色々出来る。
 ↓以下は公式doc↓
 https://documenter.getpostman.com/view/13129365/TVeqbmeq
