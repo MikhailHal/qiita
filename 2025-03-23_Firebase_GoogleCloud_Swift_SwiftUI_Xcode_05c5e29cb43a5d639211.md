@@ -2,7 +2,7 @@
 title:   SwiftUI + Firebase使用時にPreviewが使えない悪魔的な罠
 tags:    Firebase,GoogleCloud,Swift,SwiftUI,Xcode
 id:      05c5e29cb43a5d639211
-private: true
+private: false
 -->
 # 環境
 Xcode: 16.2
@@ -12,6 +12,11 @@ Firebase: 11.9.0
 # 問題
 レイアウトファイルを開いても下記のようにロードが終わらない。
 時折、「クラッシュしました」のような旨のメッセージが表示されたりもする。
+(下記はCanvasウィンドウの画像)
+
+![スクリーンショット 2025-03-23 13.14.12.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3355973/941e05bc-c9cb-4fae-979f-7d7d34c0b624.png)
+
+
 
 # 原因
 GoogleService-Info.plist(以降plistファイルと表記)が正しく配置されていない場合に起こり得る。
