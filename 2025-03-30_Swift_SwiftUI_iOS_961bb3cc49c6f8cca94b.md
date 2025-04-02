@@ -29,5 +29,5 @@ Text("既にアカウントがありますか？その場合は[ログイン](na
 この特性を利用して、URLを開く以外にも様々な用途に応用することが出来ます。(想定された使い方かどうかは別だけど...)
 
 # ソース
-[Apple Developerサイト]("https://developer.apple.com/documentation/swiftui/openurlaction")に記載されていました。
+[Apple Developerサイト](https://developer.apple.com/documentation/swiftui/openurlaction)に記載されていました。
 こちらは単純にURLを開く方法の紹介がされていますね。
